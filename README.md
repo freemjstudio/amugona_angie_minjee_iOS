@@ -1,5 +1,5 @@
 # amugona_angie_minjee_iOS
-## Angie and Minjee's iOS repository
+## Angie and Minjee's iOS repository :apple: :fire:
 
 :bear:
 
