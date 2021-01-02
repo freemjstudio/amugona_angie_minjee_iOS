@@ -1,6 +1,5 @@
 ## Angie and Minjee's iOS repository :apple: :fire:
 
-:bear:
 
 
 
